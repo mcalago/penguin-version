@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "android": {
-    "latestVersion": "1.7.2",
-    "minimumRaceVersion": "1.7.2",
+    "latestVersion": "1.8.0",
+    "minimumRaceVersion": "1.8.0",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.mcanalagoz.penguin3dadventure"
   },
   "ios": {
